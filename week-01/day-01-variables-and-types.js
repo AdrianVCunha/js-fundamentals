@@ -1,7 +1,6 @@
-/* 
-Day 01: Variables and Data Types
-Practicing var, let, const and primitive types in JavaScript 
-*/
+//Day 01: Variables and Data Types
+//Practicing var, let, const and primitive types in JavaScript 
+
 
 // Using var
 var myName = "Adrian";
